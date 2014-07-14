@@ -1,0 +1,22 @@
+{
+  "author": "Louison Dumont",
+  "name": "commonjs-indexer",
+  "description": "Automatically create an index.js file from specified directory",
+  "version": "0.1",
+  "repository": {
+    "url": "https://github.com/louisondumont/commonjs-indexer"
+  },
+  "main": "./lib/commonjs-indexer",
+  "keywords": [
+    "commonjs",
+    "indexer",
+    "index.js"
+  ],
+  "bin": {
+    "commonjs-indexer": "./bin/commonjs-indexer"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
