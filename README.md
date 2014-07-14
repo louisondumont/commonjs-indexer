@@ -13,4 +13,4 @@ Usage
 
 Example
 ------------
-    commonjs-indexer . > index.js
+    commonjs-indexer ./ > index.js
